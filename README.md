@@ -23,11 +23,11 @@ Projects in this course involve:
 - Developing designs with programmable logic devices using CAD tools.
 - Working individually and in teams to assess technical writing and project management skills.
 
-Projects:
+This repository includes three Projects developed for the course:
 
-- Project 1
-- Project 2
-- Project 3
+1. **Project 1**: 
+2. **Project 2**: 
+3. **Project 3**: 
 
 ## Setting Up Logisim
 
