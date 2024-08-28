@@ -33,9 +33,9 @@ Projects in this course involve:
 
 ## Projects and Files
 
-- **Project1**: Description and files related to Project 1.
-- **Project2**: Description and files related to Project 2.
-- **Project3**: Description and files related to Project 2.
+- **Project 1**: 
+- **Project 2**: 
+- **Project 3**: 
 
 ## Copyright & Licensing
 
