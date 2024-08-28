@@ -1,6 +1,6 @@
 # Digital Logic Design
 
-This repository contains projects and coursework related to the Digital Logic Design course. It covers both theoretical and practical design aspects with combinational and sequential logic circuits. (**Instructed by Dean Lisa Shay during the Spring 2024**)
+This repository contains projects and coursework related to the Digital Logic Design course. It covers both theoretical and practical design aspects with combinational and sequential logic circuits. (**Spring 2024**)
 
 ## Course Overview
 
