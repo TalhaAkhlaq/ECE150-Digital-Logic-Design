@@ -24,7 +24,7 @@ Projects in this course involve:
 
 This repository includes three Projects developed for the course:
 
-1. **Project 1**: [BCD to Morse Code Encoder](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)).
+1. **Project 1**: [BCD to Morse Code Encoder](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder))
 2. **Project 2**: 
 3. **Project 3**: 
 
