@@ -19,9 +19,8 @@ The course addresses:
 
 Projects in this course involve:
 
-- Designing digital circuits and constructing prototypes on breadboards.
 - Developing designs with programmable logic devices using CAD tools.
-- Working individually and in teams to assess technical writing and project management skills.
+- Designing digital circuits and constructing prototypes on breadboards.
 
 This repository includes three Projects developed for the course:
 
