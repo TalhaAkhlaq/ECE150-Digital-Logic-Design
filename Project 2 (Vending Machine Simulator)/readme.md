@@ -14,3 +14,4 @@ To download and open the circuit file in Logisim-Evolution, follow these steps:
 Once opened, you can view, modify, and simulate the circuit as needed.
 
 ## Theory
+
