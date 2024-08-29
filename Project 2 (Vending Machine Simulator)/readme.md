@@ -101,6 +101,9 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 </p>
 
 ## Circuit Diagram
+
+[Download](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%202%20(Vending%20Machine%20Simulator)/Project%202%20(Circuit%20FIle).circ)
+
 <p align="center">
   <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%202%20(Vending%20Machine%20Simulator)/Project%202%20(Circuit%20Design).png" alt="Circuit Diagram">
 </p>
