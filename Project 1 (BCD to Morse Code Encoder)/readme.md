@@ -61,19 +61,21 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 
 ## Circuit Diagrams
 
-**Circuit (Sum of Products):**
+**Circuit (Sum of Products):** [Logisim File (Sum of Products)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(Sum%20of%20Products)).circ)
 
 <div align="center">
     <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(Sum%20of%20Products)).png" alt="Circuit (Sum of Products)">
 </div>
 
-**Circuit (NAND Only):**
+**Circuit (NAND Only):** [Logisim File (NAND Only)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Proejct%201%20(Circuit%20(NAND%20Only)).circ)
+
 
 <div align="center">
     <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(NAND%20Only)).png" alt="Circuit (NAND Only)">
 </div>
 
-**Bubble Pushing (R1):**
+**Bubble Pushing (R1):** [Logisim File (R1)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Push%20(R1)).circ)
+
 
 <div align="center">
     <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(R1).png" alt="Bubble Pushing (R1)">
@@ -85,7 +87,7 @@ Once opened, you can view, modify, and simulate the circuit as needed.
     <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(R1)%20(NAND%20Only)).png" alt="Bubble Pushing (R1) (NAND Only)">
 </div>
 
-**Bubble Pushing (G1):**
+**Bubble Pushing (G1):** [Logisim File (G1)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Push%20(G1)).circ)
 
 <div align="center">
     <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(G1).png" alt="Bubble Pushing (G1)">
