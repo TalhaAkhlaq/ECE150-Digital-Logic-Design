@@ -17,83 +17,119 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 
 **Truth Table:**
 
-![Truth Table](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Truth%20Table).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Truth%20Table).png" alt="Truth Table">
+</div>
 
 **Karnaugh Maps & Boolean Algebra:**
 
-![Karnaugh Maps & Boolean Algebra (1)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Karnaugh%20Maps%20%26%20Boolean%20Algebra)%20(1).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Karnaugh%20Maps%20%26%20Boolean%20Algebra)%20(1).png" alt="Karnaugh Maps & Boolean Algebra (1)">
+</div>
 
-![Karnaugh Maps & Boolean Algebra (2)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Karnaugh%20Maps%20%26%20Boolean%20Algebra)%20(2).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Karnaugh%20Maps%20%26%20Boolean%20Algebra)%20(2).png" alt="Karnaugh Maps & Boolean Algebra (2)">
+</div>
 
-![Karnaugh Maps & Boolean Algebra (3)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Karnaugh%20Maps%20%26%20Boolean%20Algebra)%20(3).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Karnaugh%20Maps%20%26%20Boolean%20Algebra)%20(3).png" alt="Karnaugh Maps & Boolean Algebra (3)">
+</div>
 
 **Final Expressions:**
 
-![Final Expressions](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Final%20Expressions).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Final%20Expressions).png" alt="Final Expressions">
+</div>
 
 **Gates and Chips:**
 
-![Gates and Chips](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Gates%20and%20Chips).png.png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Gates%20and%20Chips).png.png" alt="Gates and Chips">
+</div>
 
 **NAND Only Derivation:**
 
-![NAND Only Derivation](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(NAND%20Only%20Derivation).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(NAND%20Only%20Derivation).png" alt="NAND Only Derivation">
+</div>
 
 **Gates and Chips (NAND Only):**
 
-![Gates and Chips (NAND Only)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201(Gates%20and%20Chips%20(NAND%20Only)).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201(Gates%20and%20Chips%20(NAND%20Only)).png" alt="Gates and Chips (NAND Only)">
+</div>
 
 ## Circuit Diagrams
 
 **Circuit (Sum of Products):**
 
-![Circuit (Sum of Products)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(Sum%20of%20Products)).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(Sum%20of%20Products)).png" alt="Circuit (Sum of Products)">
+</div>
 
 **Circuit (NAND Only):**
 
-![Circuit (NAND Only)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(NAND%20Only)).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Circuit%20(NAND%20Only)).png" alt="Circuit (NAND Only)">
+</div>
 
 **Bubble Pushing (R1):**
 
-![Bubble Pushing (R1)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(R1).png
-)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(R1).png" alt="Bubble Pushing (R1)">
+</div>
 
 **Bubble Pushing (R1) (NAND Only):**
 
-![Bubble Pushing (R1) (NAND Only)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(R1)%20(NAND%20Only)).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(R1)%20(NAND%20Only)).png" alt="Bubble Pushing (R1) (NAND Only)">
+</div>
 
 **Bubble Pushing (G1):**
 
-![Bubble Pushing (G1)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(G1).png
-)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(G1).png" alt="Bubble Pushing (G1)">
+</div>
 
 **Bubble Pushing (G1) (NAND Only):**
 
-![Bubble Pushing (G1) (NAND Only)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(G1)%20(NAND%20Only)).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Bubble%20Pushing%20(G1)%20(NAND%20Only)).png" alt="Bubble Pushing (G1) (NAND Only)">
+</div>
 
 ## Bill of Materials
 
 **Cost of SOP:**
 
-![Cost of SOP](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Cost%20of%20SOP).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Cost%20of%20SOP).png" alt="Cost of SOP">
+</div>
 
 **Cost of NAND Only:**
 
-![Cost of NAND Only](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Cost%20of%20NAND%20Only).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Cost%20of%20NAND%20Only).png" alt="Cost of NAND Only">
+</div>
 
 **Total Cost:**
 
-![Total Cost](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Total%20Cost).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Total%20Cost).png" alt="Total Cost">
+</div>
 
 ## TinkerCAD
 
 [NAND Only (TinkerCAD Link)](https://www.tinkercad.com/things/5qz1x1EX0hI-nand-only-project-1/editel?returnTo=%2Fdashboard%3Fcollection%3Ddesigns&sharecode=3EE7p7VWXoC4babMxV6vZnEBQwvb64EWLbs2GbcB8XI)
 
-![TinkerCAD (NAND Only)](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(TinkerCAD).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(TinkerCAD).png" alt="TinkerCAD (NAND Only)">
+</div>
 
 ## Image of Circuit
 
-![Image of Circuit](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Image%20of%20Circuit).png)
+<div align="center">
+    <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder)/Project%201%20(Image%20of%20Circuit).png" alt="Image of Circuit">
+</div>
 
 
 
