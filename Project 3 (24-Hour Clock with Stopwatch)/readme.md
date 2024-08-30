@@ -18,7 +18,7 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 ## Circuit Diagrams
 
 ### CD4511
-[Download]()
+[Download](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511).circ)
 
 <strong></strong><br>
 <p align="center">
@@ -30,7 +30,7 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 </p>
 
 ### <strong>74HC157</strong><be>
-[Download]()
+[Download](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(74HC157).circ)
 
 <p align="center">
   <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(74HC157)%20(1).png"/>
@@ -41,7 +41,7 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 </p>
 
 ### <strong>CD4518</strong><be>
-[Download]()
+[Download](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4518).circ)
 
 <p align="center">
   <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4518)%20(1).png" />
@@ -52,14 +52,14 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 </p>
 
 ### <strong>Initial Simulation</strong><be>
-[Download]()
+[Download](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Initial%20Simulation).circ)
 
 <p align="center">
   <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Initial%20Simulation).png" />
 </p>
 
 ### <strong>Final Simulation</strong><be>
-[Download]()
+[Download](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Final%20Simulation).circ)
 
 <p align="center">
   <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Final%20Simulation).png" />
