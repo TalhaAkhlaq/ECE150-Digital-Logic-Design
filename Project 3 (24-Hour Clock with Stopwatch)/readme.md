@@ -17,40 +17,63 @@ Once opened, you can view, modify, and simulate the circuit as needed.
 
 ## Circuit Diagrams
 
+### CD4511
+
+<strong></strong><br>
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" width="300"/>
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(2).png" width="300"/>
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(1).png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(74HC157)%20(1).png" width="300"/>
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(74HC157)%20(2).png" width="300"/>
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4511)%20(2).png"/>
+</p>
+
+### <strong>74HC157</strong><br>
+<p align="center">
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(74HC157)%20(1).png"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4518)%20(1).png" width="300"/>
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4518)%20(2).png" width="300"/>
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(74HC157)%20(2).png" />
+</p>
+
+### <strong>CD4518</strong><br>
+<p align="center">
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4518)%20(1).png" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Initial%20Simulation).png" width="300"/>
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Final%20Simulation).png" width="300"/>
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(CD4518)%20(2).png" />
+</p>
+
+### <strong>Initial Simulation</strong><br>
+<p align="center">
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Initial%20Simulation).png" />
+</p>
+
+### <strong>Final Simulation</strong><br>
+<p align="center">
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Final%20Simulation).png" />
 </p>
 
 ## Images
 
-<p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(3D-Printed%20Precision%20Wire%20Gauge)%20(1).png" width="300"/>
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(3D-Printed%20Precision%20Wire%20Gauge)%20(2).png" width="300"/>
-</p>
+### 3D-Printed Precision Wire Gauge 
 
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Image%20of%20Circuit).png" width="300"/>
+  <strong></strong><br>
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(3D-Printed%20Precision%20Wire%20Gauge)%20(1).png" width="500" />
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(3D-Printed%20Precision%20Wire%20Gauge)%20(2).png" width="500" />
+</p>
+
+### <strong>Image of Circuit</strong><br>
+<p align="center">
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Image%20of%20Circuit).png" />
 </p>
 
 ## Miscellaneous
 
+<strong>Bill of Materials</strong><br>
 <p align="center">
-  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Bill%20of%20Materials).png" width="300"/>
+  <img src="https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/blob/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch)/Project%203%20(Bill%20of%20Materials).png" />
 </p>
-
