@@ -25,7 +25,7 @@ Projects in this course involve:
 This repository includes three Projects developed for the course:
 
 1. **Project 1**: [BCD to Morse Code Encoder](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%201%20(BCD%20to%20Morse%20Code%20Encoder))
-2. **Project 2**: [Vending Machine Simulator](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%202%20(Vending%20Machine))
+2. **Project 2**: [Vending Machine Simulator]((https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%202%20(Vending%20Machine%20Simulator)))
 3. **Project 3**: [24-Hour Clock with Stopwatch](https://github.com/TalhaAkhlaq/ECE150-Digital-Logic-Design/tree/main/Project%203%20(24-Hour%20Clock%20with%20Stopwatch))
 
 ## Setting Up Logisim
